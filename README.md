@@ -34,11 +34,11 @@ As observed, the performance metrics for odometer type classification using Supp
 Vector Machine (SVM), Decision Tree, Random Forest, K-Nearest Neighbors, and 
 Logistic Regression are as follows:
 1. SVM:
-• Accuracy: 81.31%
-• Precision: 81.08%
-• Recall: 81.31%
-• F1 Score: 80.66%
-• Confusion Matrix:
+. Accuracy: 81.31%
+. Precision: 81.08%
+. Recall: 81.31%
+. F1 Score: 80.66%
+. Confusion Matrix:
 [[151 94]
 [ 40 432]] 
 2. Decision Tree:
