@@ -1,3 +1,3 @@
-## Odometer Classification and Mileage Extraction using Machine Learning
+# Odometer Classification and Mileage Extraction using Machine Learning
 
-# Introduction
+## Introduction
