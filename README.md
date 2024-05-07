@@ -33,7 +33,7 @@ before model training
 As observed, the performance metrics for odometer type classification using Support 
 Vector Machine (SVM), Decision Tree, Random Forest, K-Nearest Neighbors, and 
 Logistic Regression are as follows:
-• SVM:
+1. SVM:
 • Accuracy: 81.31%
 • Precision: 81.08%
 • Recall: 81.31%
@@ -41,7 +41,7 @@ Logistic Regression are as follows:
 • Confusion Matrix:
 [[151 94]
 [ 40 432]] 
-• Decision Tree:
+2. Decision Tree:
 • Accuracy: 80.33%
 • Precision: 80.15%
 • Recall: 80.33%
@@ -49,7 +49,7 @@ Logistic Regression are as follows:
 • Confusion Matrix:
 [[169 76]
 [ 65 407]] 
-• Random Forest:
+3. Random Forest:
 • Accuracy: 90.66%
 • Precision: 90.59%
 • Recall: 90.66%
@@ -57,7 +57,7 @@ Logistic Regression are as follows:
 • Confusion Matrix:
 [[205 40]
 [ 27 445]] 
-• K-Nearest Neighbors:
+4. K-Nearest Neighbors:
 • Accuracy: 80.06%
 • Precision: 81.33%
 • Recall: 80.06%
@@ -65,7 +65,7 @@ Logistic Regression are as follows:
 • Confusion Matrix:
 [[120 125] 
 [ 18 454]] 
-• Logistic Regression:
+5. Logistic Regression:
 • Accuracy: 83.68%
 • Precision: 83.47%
 • Recall: 83.68%
