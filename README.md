@@ -26,3 +26,7 @@ predefined dimensions and normalized between 0 and 1.
 data in the JSON file, and the dataset was divided into training and testing sets.
 These steps were adapted for each machine learning model, serving as the input data 
 before model training
+![image](https://github.com/ismaillburakk/Odometer-Type-Classification/assets/75124682/b8204ba9-7c54-4264-a8c7-516a71e786b4)
+
+
+
